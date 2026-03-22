@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/priyakanojiya2006/my-react-news-app/static/css/main.f855e6bc.css",
+    "main.js": "/priyakanojiya2006/my-react-news-app/static/js/main.b702b0a5.js",
+    "static/js/453.a4105747.chunk.js": "/priyakanojiya2006/my-react-news-app/static/js/453.a4105747.chunk.js",
+    "index.html": "/priyakanojiya2006/my-react-news-app/index.html",
+    "main.f855e6bc.css.map": "/priyakanojiya2006/my-react-news-app/static/css/main.f855e6bc.css.map",
+    "main.b702b0a5.js.map": "/priyakanojiya2006/my-react-news-app/static/js/main.b702b0a5.js.map",
+    "453.a4105747.chunk.js.map": "/priyakanojiya2006/my-react-news-app/static/js/453.a4105747.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b702b0a5.js"
+  ]
+}
