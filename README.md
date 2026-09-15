@@ -16,13 +16,15 @@ React.js, JavaScript (ES6+), REST API, CSS
 git clone https://github.com/priyakanojiya2006/movie-search-app.git
 cd movie-search-app
 npm install
-npm startgit clone https://github.com/priyakanojiya2006/movie-search-app.git
-cd movie-search-app
-npm install
+npm start
 
 ## Live Demo
-[https://firstmovieap.netlify.app/]
+[View Live App](https://firstmovieap.netlify.app/)
+
+## Performance
+Audited with Chrome Lighthouse — 93 Accessibility, 100 Best Practices, 100 SEO.
 
 ## What I'd Improve Next
 - Pagination for search results
 - Save recently viewed movies with local storage
+- Improve performance score (currently 77) by optimizing image loading
